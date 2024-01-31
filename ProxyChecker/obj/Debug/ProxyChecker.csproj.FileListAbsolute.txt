@@ -1,0 +1,7 @@
+C:\Users\Kalipso\source\repos\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.exe.config
+C:\Users\Kalipso\source\repos\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.exe
+C:\Users\Kalipso\source\repos\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.pdb
+C:\Users\Kalipso\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csproj.AssemblyReference.cache
+C:\Users\Kalipso\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csproj.CoreCompileInputs.cache
+C:\Users\Kalipso\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.exe
+C:\Users\Kalipso\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.pdb
